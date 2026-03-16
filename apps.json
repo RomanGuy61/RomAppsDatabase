@@ -4,8 +4,7 @@
       "name": "Nova - Messager",
       "packageName": "org.fossify.messages",
       "version": "1.8",
-      "developer": "Own68",
-      "icon": "https://github.com/RomanGuy61/RomAppsDatabase/blob/main/ic_launcher.png?raw=true",
+      "developer": "Own68",      "icon": "https://raw.githubusercontent.com/RomanGuy61/RomAppsDatabase/main/ic_launcher.png",
       "download": "https://raw.githubusercontent.com/RomanGuy61/RomAppsDatabase/refs/heads/main/Nova.apk"
     }
   ]
